@@ -6,8 +6,9 @@ import Projects from './components/Projects';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
 import SocialLinks from './components/SocialLinks';
+import Footer from './components/Footer'
 import './App.css';
-import Footer from './components/Footer';export default Resume;
+
 
 class App extends Component {
   render() {
